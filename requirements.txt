@@ -1,3 +1,4 @@
+gunicorn
 absl-py
 astor
 cachetools
@@ -40,7 +41,7 @@ rsa
 scipy
 six
 tensorboard
-tensorflow==2.3.1
+tensorflow
 tensorflow-estimator
 termcolor
 urllib3
